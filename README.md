@@ -1,6 +1,7 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
+First project of Data Science Nanodegree curriculum
 
 ### Install
 
