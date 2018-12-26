@@ -2,6 +2,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 First project of Data Science Nanodegree curriculum from Udacity platform.
+Obtained the project data from repo: https://github.com/udacity/machine-learning.git
 
 ### Install
 
